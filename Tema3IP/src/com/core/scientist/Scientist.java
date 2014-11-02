@@ -31,7 +31,7 @@ public abstract class Scientist {
 		
 		if(this.getName()!=null)
 			System.out.println("Hi, my name is "+this.getName() );
-		else System.out.println("I can't teach because i don't have a name");
+		else System.out.println("Hi everyone, I don't know my name");
 	}
 	
 	/**

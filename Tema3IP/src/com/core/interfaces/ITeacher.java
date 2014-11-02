@@ -17,5 +17,11 @@ public interface ITeacher {
 	 */
 	public void teach() throws TeachException;
 	
+	/**
+	 * This is the research method
+	 * 
+	 * @throws TeachException
+	 * @return This method returns void
+	 */
 	public void research() throws TeachException;
 }
